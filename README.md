@@ -1,6 +1,10 @@
 ## Olá! Eu sou a Evelyn Silva 💻
 Aqui, neste espaço compartilho com vocês meus esforços criativos e projetos.
 
+ <div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynBack&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="evy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="evy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
