@@ -1,8 +1,5 @@
-## Olá! Eu sou a Evelyn Silva 💻💕
-
-- 🔭 Estudante de Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando Python
-
+## Olá! Eu sou a Evelyn Silva 💻
+Aqui, neste espaço compartilho com vocês meus esforços criativos e projetos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="evy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
