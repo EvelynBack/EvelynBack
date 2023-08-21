@@ -2,7 +2,7 @@
 Aqui, neste espaço compartilho com vocês meus esforços criativos e projetos.
 
  <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynBack&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynBack&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
