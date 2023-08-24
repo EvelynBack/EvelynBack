@@ -3,7 +3,7 @@ Aqui, neste espaço compartilho com vocês meus esforços criativos e projetos.
 
 <div>
   <a href="https://github.com/evelynback">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynback&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynback&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
