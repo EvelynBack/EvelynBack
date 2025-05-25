@@ -1,5 +1,26 @@
-## Olá! Eu sou a Evelyn Silva 💻
-Aqui, neste espaço compartilho com vocês meus esforços criativos e projetos.
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+
+Sou Analista de Suporte Técnico na ARGUS e estudante de Ciência de Dados. Estou construindo meu caminho na área de tecnologia com foco em dados e soluções práticas.
+
+## 🚀 Tecnologias que estou aprendendo
+- Python
+- SQL
+- Power BI
+- Git & GitHub
+- Modelagem de Dados
+- ETL (em progresso)
+
+## 📁 Projetos em destaque
+- [Salva Retalho](https://github.com/seu-usuario/salva-retalho) – Sistema para gestão de retalhos de cabos elétricos (Projeto para a Obramax)
+- *[Outro Projeto]* – Descrição rápida aqui
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- ✉️ seuemail@exemplo.com
+
+
+
+
 
 <div>
   <a href="https://github.com/evelynback">
