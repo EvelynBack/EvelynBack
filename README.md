@@ -1,47 +1,79 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+# 👩🏻‍💻 Evelyn Silva
 
-Sou Analista de Suporte Técnico na ARGUS e estudante de Ciência de Dados. Estou construindo meu caminho na área de tecnologia com foco em dados e soluções práticas.
+**`Data & Analytic`**
 
-## 🚀 Tecnologias que estou aprendendo
-- Python
-- SQL
-- Power BI
-- Git & GitHub
-- Modelagem de Dados
-- ETL (em progresso)
+Me chamo Evelyn, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolimento de Sistemas. Atualmente, estou cursando Ciência de Dados na FAM. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no Linkedin "[Evelyn Silva](https://www.linkedin.com/in/evelynsilvaback")", onde ensino e divido aprendizados sobre programação, análise de dados e minha jornada na área de TI.
 
-## 📁 Projetos em destaque
-- [Salva Retalho](https://github.com/seu-usuario/salva-retalho) – Sistema para gestão de retalhos de cabos elétricos (Projeto para a Obramax)
-- *[Outro Projeto]* – Descrição rápida aqui
-
-## 📫 Contato
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- ✉️ seuemail@exemplo.com
-
-
-
-
-
-<div>
-  <a href="https://github.com/evelynback">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynback&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="evy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="evy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="evy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
-
-##
-
- 
 <div> 
   <a href = "mailto:evelynback@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/evelynsilvaback" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/evelynsilvaback" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+---
 
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=evelynback&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="135" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynback&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
